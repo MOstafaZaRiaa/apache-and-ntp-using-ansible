@@ -1,4 +1,4 @@
-# centos-lamp-setup
+# Apache and NTP Using Ansible
 
 This repository contains an Ansible playbook for automating the setup of a LAMP (Linux, Apache, NTP) stack on CentOS servers.
 
